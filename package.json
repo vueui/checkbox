@@ -1,9 +1,9 @@
 {
   "name": "@vueui/checkbox",
-  "version": "0.0.1",
+  "version": "0.1.0",
   "description": "Semantic UI checkbox.",
   "main": "index.js",
-  "scripts": { },
+  "scripts": {},
   "author": "Agon Bina <agon_bina@hotmail.com>",
   "license": "MIT"
 }
